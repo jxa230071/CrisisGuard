@@ -60,5 +60,5 @@ CrisisGuard is licensed under the [MIT License](LICENSE). Feel free to use, modi
 ---
 
 ## Contact
-For more information or to get in touch, please contact us at maryamkofosulaiman@gmail.com.
+For more information or to get in touch, please contact us at maryamkofosulaiman@gmail.com, judyabdelhalim3141@gmail.com.
 
